@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.second{
+    cursor: pointer;
+}
+.RR{
+    border: 2px solid greenyellow;
+    box-sizing: content-box;
+    border-radius: 24cap;
+    background-color: antiquewhite;
+    column-width: 10cm;
+ 
+}
+.ee{
+    color: aqua;
+    
+}

@@ -1,0 +1,78 @@
+.ty{
+background-image:url("web-design-tips.jpg") ;
+width: 1750px;
+height: 1300px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+*{
+  margin: 0px;
+  padding: 5px;
+}
+.kl{
+  background-image: url(black-wallpaper-to-set-as-background-33.jpg);
+  color: aliceblue;
+  width: 1850px;
+  height: 50px;
+  font-size: x-large;
+  background-position:center;
+  font-style:italic;
+
+
+}
+.mk{
+  border:1px solid black;
+
+background-color: bisque;
+height: 50px;
+}
+
+.xx{
+  border: 3px solid black;
+  width: 100px;
+  border-color: blue;
+  background-color: blue;
+  font-size: xx-small;
+ 
+}
+.gray{
+  border:5px solid black ;
+  background-repeat: space;
+}
+.zx{
+  border: 2px solid blue;
+  width: 80px;
+  border-color: aqua;
+  color: black;
+  
+
+  @media only screen and  (min-width:500px){
+    body{
+      width: 450px;
+      display: block;
+     
+    }
+  }
+
+#lool{
+  width: 100%;
+  height: 450px;
+  background-color: antiquewhite;
+}
+
+
+  #lool,.img,.kal{
+    display: flex;
+    width: 50%;
+    height: 400px;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px solid balck;
+    float: left;
+    background-color: azure;
+
+
+  }
+
+  
